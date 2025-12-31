@@ -3,6 +3,8 @@ FOOS (Free Organization Operating System) is a Free and Open Source Software (FO
 
 FOOS is similar in scope to software like Notion, Asana, or Google Keep, but is unique in both its intended use case and the constraints listed above that it is designed to operate within, as well as the digital sovereignty it provides users by allowing them to configure and self-host their own FOOS server, as well as being FOSS.
 
+By functioning as a simple interactive digital twin of an organization, it also can also act as a source of truth for roles and responsibilities, and for an org chart. This also integrates with democratic processes within an organization. Various voting algorithms (any can be programmed) can be used like quadratic voting and rank choice voting for deciding certain role assignments and/or voting on any arbitrary thing. This is an optional feature but one that could be powerful especially when it is adapted through the evolutionary process as discussed later in the readme.
+
 FOOS is just beginning its development process so many imagined features may change form, but the core purpose remains the same. Hopefully after reading the following example, you will see why this software solves some problems that no software we are aware of currently does, to the point that we want to develop it just to use it ourselves.
 
 Example case: Farming on the shores of Lake Victoria in Port Victoria, Kenya.
